@@ -1,0 +1,12 @@
+name: stories-mre
+title: stories-mre
+username: astho
+account: astho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11742478
+bundleId: 8486192
+url: https://astho.shinyapps.io/stories-mre/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
