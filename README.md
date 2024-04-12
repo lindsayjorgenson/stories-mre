@@ -12,3 +12,7 @@ and code for this demo.
 
 See how it works:
 
+
+https://github.com/lindsayjorgenson/stories-mre/assets/138160652/07cc11a5-5bd3-4ef3-8f7f-d4ac099b04db
+
+
