@@ -12,4 +12,3 @@ and code for this demo.
 
 See how it works:
 
-![](look.mp4)
