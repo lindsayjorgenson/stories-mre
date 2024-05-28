@@ -2,14 +2,17 @@
 # www.astho.org/profile
 
 
-source("R/func.R")
-source("R/stories.R")
-
 
 
 library(shiny)
 library(bslib)
 library(shinyjs)
+library(htmltools)
+
+source("R/func.R")
+source("R/stories.R")
+
+
 
 
 custom_theme <- bs_theme(
