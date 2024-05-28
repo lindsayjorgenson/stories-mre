@@ -68,35 +68,35 @@ card_data <- list(
       )
   ),
   "story_two" = list(
-    card = first_card,
+    card = second_card,
     content =  
       div(
         p("this is the content")
       )
   ),
   "story_three" = list(
-    card = first_card,
+    card = third_card,
     content =  
       div(
         p("this is the content")
       )
   ),
   "story_four" = list(
-    card = first_card,
+    card = fourth_card,
     content =  
       div(
         p("this is the content")
       )
   ),
   "story_five" = list(
-    card = first_card,
+    card = fifth_card,
     content =  
       div(
         p("this is the content")
       )
   ),
   "story_six" = list(
-    card = first_card,
+    card = sixth_card,
     content =  
       div(
         p("this is the content")
